@@ -1,0 +1,33 @@
+﻿生成启动时间为 2018/1/23 21:36:54。
+     1>项目“C:\Users\lenovo\Desktop\qrlib\qrlib\qrlib.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ILibQREncode /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D HAVE_CONFIG_H /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt LibQREncode\bitstream.c LibQREncode\mask.c LibQREncode\mmask.c LibQREncode\mqrspec.c LibQREncode\qrencode.c LibQREncode\qrinput.c LibQREncode\qrspec.c LibQREncode\rscode.c LibQREncode\split.c
+         split.c
+         rscode.c
+         qrspec.c
+         qrinput.c
+         qrencode.c
+         mqrspec.c
+         mmask.c
+         mask.c
+         bitstream.c
+         正在生成代码...
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ILibQREncode /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D HAVE_CONFIG_H /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\lenovo\Desktop\qrlib\Debug\qrlib.lib" /NOLOGO Debug\bitstream.obj
+         Debug\mask.obj
+         Debug\mmask.obj
+         Debug\mqrspec.obj
+         Debug\qrencode.obj
+         Debug\qrinput.obj
+         Debug\qrspec.obj
+         Debug\rscode.obj
+         Debug\split.obj
+         Debug\stdafx.obj
+         qrlib.vcxproj -> C:\Users\lenovo\Desktop\qrlib\Debug\qrlib.lib
+     1>已完成生成项目“C:\Users\lenovo\Desktop\qrlib\qrlib\qrlib.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.38
